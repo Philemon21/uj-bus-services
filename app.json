@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "ha-appointlet",
-    "slug": "ha-appointlet",
+    "name": "ujbusservices",
+    "slug": "ujbusservices",
+    "description":"Uj bus services",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
